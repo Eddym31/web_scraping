@@ -26,8 +26,8 @@ class Email:
         host = "smtp.gmail.com"
         port = 465
 
-        username = "eduard.puscau@gmail.com"
-        password = "cgftnpsgwblnooqh"
+        username = "email@gmail.com"
+        password = "enter key"
 
         receiver = "eduard.puscau@gmail.com"
         context = ssl.create_default_context()
